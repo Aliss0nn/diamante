@@ -45,7 +45,7 @@
                 }
                 
 
-                Console.ReadKey();
+                Console.ReadLine();
             }
         }   
     }
